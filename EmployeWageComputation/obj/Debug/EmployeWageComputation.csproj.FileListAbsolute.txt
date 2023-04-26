@@ -1,0 +1,8 @@
+D:\bridgelabz\EmployeWageComputation\EmployeWageComputation\bin\Debug\EmployeWageComputation.exe.config
+D:\bridgelabz\EmployeWageComputation\EmployeWageComputation\bin\Debug\EmployeWageComputation.exe
+D:\bridgelabz\EmployeWageComputation\EmployeWageComputation\bin\Debug\EmployeWageComputation.pdb
+D:\bridgelabz\EmployeWageComputation\EmployeWageComputation\obj\Debug\EmployeWageComputation.csproj.AssemblyReference.cache
+D:\bridgelabz\EmployeWageComputation\EmployeWageComputation\obj\Debug\EmployeWageComputation.csproj.SuggestedBindingRedirects.cache
+D:\bridgelabz\EmployeWageComputation\EmployeWageComputation\obj\Debug\EmployeWageComputation.csproj.CoreCompileInputs.cache
+D:\bridgelabz\EmployeWageComputation\EmployeWageComputation\obj\Debug\EmployeWageComputation.exe
+D:\bridgelabz\EmployeWageComputation\EmployeWageComputation\obj\Debug\EmployeWageComputation.pdb
