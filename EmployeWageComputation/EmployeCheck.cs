@@ -56,11 +56,13 @@ namespace EmployeWageComputation
             int totalWorkingDays = 0;
             int totalWorkingHours = 0;
             Random rdm = new Random();
-
-            while (totalWorkingDays < 20 )
+            
+            while (totalWorkingDays < 20 && totalWorkingHours < 100)
             {
                 totalWorkingDays++;
                 int empCheck = rdm.Next(3);
+                Console.WriteLine("Random value is : " +empCheck);
+
                 switch (empCheck)
                 {
                     case 1:
